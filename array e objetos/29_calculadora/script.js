@@ -1,0 +1,3 @@
+let calculadora = {
+    "soma": function()
+}
